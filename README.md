@@ -28,9 +28,8 @@ The dataset used for this project contains the following features:
 - Use K-Means clustering algorithm to segment customers.
 - Determine the optimal number of clusters using the elbow method.
 - Fit the K-Means model and predict the clusters.
-- Insights and Visualization:
-
-- Visualize the clusters using scatter plots.
+#### Insights and Visualization:
+Visualize the clusters using scatter plots.
 - Interpret the clusters to derive insights:
 - Cluster 1: Low Income, High Spending Score
 - Cluster 2: Low Income, Low Spending Score
